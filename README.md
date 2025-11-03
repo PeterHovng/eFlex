@@ -5,8 +5,6 @@
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org/)
 
-This is a "Đồ án Cơ sở" by Software Engineering students. The project aims to build a personalized e-learning system that helps users learn on a customized path, tailored to their abilities and goals.
-
 ---
 
 ## Interface Overview
